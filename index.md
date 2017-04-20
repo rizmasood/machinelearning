@@ -1,4 +1,7 @@
-## Welcome to GitHub Pages
+
+Machine Learning Journey Begins Here
+
+The one stop source for learning about Machine Leanring,Big Data and Deep Learning.
 
 You can use the [editor on GitHub](https://github.com/rizmasood/machinelearning/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
